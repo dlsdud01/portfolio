@@ -122,7 +122,7 @@ Email   : innyeong5593@gmail.com
 
 ##  Projects
 
-### 1.  Rodia — 화물 운송 서비스
+### 1.  [Rodia — 화물 운송 서비스](https://github.com/dlsdud01/Rodia)
 
 > **2026.02 ~ 2026.03** | 팀 프로젝트 | 관리자 웹 화면 구현
 
@@ -143,7 +143,7 @@ Email   : innyeong5593@gmail.com
 
 ---
 
-### 2.  Oakey — 위스키 추천 서비스
+### 2.  [Oakey — 위스키 추천 서비스](https://github.com/tjoeun-project-02/backend)
 
 > **2026.01 ~ 2026.02** | 팀 프로젝트 | ERD 설계 · 백엔드 구축 · AWS 배포
 
@@ -166,7 +166,7 @@ Email   : innyeong5593@gmail.com
 
 ---
 
-### 3.  RoutePick — 여행 일정·경로 추천
+### 3.  [RoutePick — 여행 일정·경로 추천](https://github.com/tjoeunProject/Backend)
 
 > **2025.11 ~ 2025.12** | 팀 프로젝트 | ERD 설계 · 백엔드 구축 · AWS 배포
 
@@ -187,7 +187,7 @@ Email   : innyeong5593@gmail.com
 
 ---
 
-### 4.  Hamly — 스마트 펫 케어 앱
+### 4.  [Hamly — 스마트 펫 케어 앱](https://github.com/dlsdud01/2025_Graduate_Project)
 
 > **2025.03 ~ 2025.06** | 팀 프로젝트 (졸업 프로젝트) | Android 앱 화면 구성 · MQTT 연동
 
