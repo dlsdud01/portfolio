@@ -166,7 +166,7 @@ Email   : innyeong5593@gmail.com
 
 ---
 
-### 3. [RoutePick — AI 기반 여행 일정·경로 추천](https://github.com/tjoeunProject/Backend)
+### 3. [RoutePick — AI 기반 여행 일정·경로 추천](https://github.com/dlsdud01/RoutePick_Backend)
 
 > **2025.11 ~ 2025.12** | 팀 프로젝트 | **ERD 설계 · 백엔드 구축 · AWS 배포**
 
