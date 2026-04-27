@@ -139,7 +139,7 @@ Email   : innyeong5593@gmail.com
 
 ---
 
-### 2. [Oakey — OCR 기반 위스키 정보 검색·추천](https://github.com/tjoeun-project-02/backend)
+### 2. [Oakey — OCR 기반 위스키 정보 검색·추천](https://github.com/dlsdud01/Oakey_Backend)
 
 > **2026.01 ~ 2026.02** | 팀 프로젝트 | **ERD 설계 · Spring Boot 서버 구축 · AWS 배포**
 
